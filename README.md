@@ -1,2 +1,2 @@
 # change_wallpaper
-changes wallpaper on runnning the program, you need to select your own folder.
+changes wallpaper on runnning the program, you need to edit your own path.
